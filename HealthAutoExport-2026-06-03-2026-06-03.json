@@ -1,0 +1,3065 @@
+{
+  "data" : {
+    "workouts" : [
+      {
+        "walkingAndRunningDistance" : [
+          {
+            "date" : "2026-06-03 12:22:21 +0530",
+            "qty" : 0.058322863604958038,
+            "source" : "Zepp",
+            "units" : "km"
+          },
+          {
+            "source" : "Zepp",
+            "qty" : 0.058322863604958045,
+            "date" : "2026-06-03 12:23:21 +0530",
+            "units" : "km"
+          },
+          {
+            "units" : "km",
+            "source" : "Zepp",
+            "qty" : 0.058322863604958051,
+            "date" : "2026-06-03 12:24:21 +0530"
+          },
+          {
+            "qty" : 0.058322863604958051,
+            "units" : "km",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:25:21 +0530"
+          },
+          {
+            "units" : "km",
+            "qty" : 0.058322863604958051,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:26:21 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:27:21 +0530",
+            "qty" : 0.058322863604958051,
+            "units" : "km"
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:28:21 +0530",
+            "qty" : 0.058322863604958051,
+            "units" : "km"
+          },
+          {
+            "qty" : 0.058322863604958045,
+            "source" : "Zepp",
+            "units" : "km",
+            "date" : "2026-06-03 12:29:21 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "qty" : 0.058322863604958045,
+            "units" : "km",
+            "date" : "2026-06-03 12:30:21 +0530"
+          },
+          {
+            "units" : "km",
+            "date" : "2026-06-03 12:31:21 +0530",
+            "source" : "Zepp",
+            "qty" : 0.058322863604958045
+          },
+          {
+            "qty" : 0.0099339832533295157,
+            "date" : "2026-06-03 12:32:21 +0530",
+            "source" : "iPhone|Zepp",
+            "units" : "km"
+          },
+          {
+            "qty" : 0.014364739722614903,
+            "source" : "iPhone|Zepp",
+            "date" : "2026-06-03 12:33:21 +0530",
+            "units" : "km"
+          },
+          {
+            "qty" : 0.014364739722614902,
+            "units" : "km",
+            "source" : "iPhone|Zepp",
+            "date" : "2026-06-03 12:34:21 +0530"
+          }
+        ],
+        "isIndoor" : true,
+        "duration" : 740.70437097549438,
+        "maxHeartRate" : {
+          "qty" : 111,
+          "units" : "bpm"
+        },
+        "stepCadence" : {
+          "units" : "count\/min",
+          "qty" : 10.408049524491508
+        },
+        "avgHeartRate" : {
+          "qty" : 90.623313714333136,
+          "units" : "bpm"
+        },
+        "distance" : {
+          "qty" : 0.71999999999999997,
+          "units" : "km"
+        },
+        "metadata" : {
+
+        },
+        "location" : "Indoor",
+        "activeEnergy" : [
+          {
+            "units" : "kJ",
+            "date" : "2026-06-03 12:29:21 +0530",
+            "source" : "Zepp",
+            "qty" : 3.0803739565943236
+          },
+          {
+            "source" : "Zepp",
+            "qty" : 8.8010684474123551,
+            "units" : "kJ",
+            "date" : "2026-06-03 12:30:21 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "units" : "kJ",
+            "date" : "2026-06-03 12:31:21 +0530",
+            "qty" : 8.8010684474123551
+          },
+          {
+            "source" : "Zepp",
+            "qty" : 8.8010684474123551,
+            "date" : "2026-06-03 12:32:21 +0530",
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-06-03 12:33:21 +0530",
+            "qty" : 8.8010684474123533,
+            "source" : "Zepp"
+          },
+          {
+            "qty" : 8.8010684474123533,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:34:21 +0530",
+            "units" : "kJ"
+          }
+        ],
+        "stepCount" : [
+          {
+            "qty" : 10.412353923205341,
+            "date" : "2026-06-03 12:29:21 +0530",
+            "source" : "Zepp",
+            "units" : "steps"
+          },
+          {
+            "units" : "steps",
+            "source" : "Zepp",
+            "qty" : 29.749582637729549,
+            "date" : "2026-06-03 12:30:21 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "qty" : 29.749582637729553,
+            "date" : "2026-06-03 12:31:21 +0530",
+            "units" : "steps"
+          },
+          {
+            "source" : "iPhone|Zepp",
+            "units" : "steps",
+            "date" : "2026-06-03 12:32:21 +0530",
+            "qty" : 15.050360887755438
+          },
+          {
+            "units" : "steps",
+            "qty" : 21.763124757792355,
+            "source" : "iPhone|Zepp",
+            "date" : "2026-06-03 12:33:21 +0530"
+          },
+          {
+            "units" : "steps",
+            "qty" : 21.763124757792355,
+            "source" : "iPhone|Zepp",
+            "date" : "2026-06-03 12:34:21 +0530"
+          }
+        ],
+        "heartRateData" : [
+          {
+            "source" : "Zepp",
+            "Min" : 87,
+            "Max" : 100,
+            "date" : "2026-06-03 12:22:21 +0530",
+            "Avg" : 93.563106796116514,
+            "units" : "bpm"
+          },
+          {
+            "date" : "2026-06-03 12:23:21 +0530",
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Min" : 94,
+            "Avg" : 95.192307692307722,
+            "Max" : 105
+          },
+          {
+            "units" : "bpm",
+            "date" : "2026-06-03 12:24:21 +0530",
+            "source" : "Zepp",
+            "Max" : 96,
+            "Min" : 91,
+            "Avg" : 94.427884615384613
+          },
+          {
+            "date" : "2026-06-03 12:25:21 +0530",
+            "Min" : 91,
+            "Avg" : 92.735576923076906,
+            "units" : "bpm",
+            "Max" : 96,
+            "source" : "Zepp"
+          },
+          {
+            "Min" : 87,
+            "Avg" : 89.577669902912604,
+            "Max" : 93,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:26:21 +0530",
+            "units" : "bpm"
+          },
+          {
+            "Min" : 82,
+            "Avg" : 86.105769230769241,
+            "Max" : 90,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:27:21 +0530",
+            "units" : "bpm"
+          },
+          {
+            "Max" : 87,
+            "Min" : 82,
+            "Avg" : 85.21634615384616,
+            "date" : "2026-06-03 12:28:21 +0530",
+            "source" : "Zepp",
+            "units" : "bpm"
+          },
+          {
+            "Max" : 87,
+            "Min" : 84,
+            "date" : "2026-06-03 12:29:21 +0530",
+            "Avg" : 84.802884615384642,
+            "source" : "Zepp",
+            "units" : "bpm"
+          },
+          {
+            "Max" : 86,
+            "Min" : 83,
+            "Avg" : 84.42307692307692,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:30:21 +0530"
+          },
+          {
+            "units" : "bpm",
+            "Min" : 84,
+            "Avg" : 85.264423076923066,
+            "Max" : 88,
+            "date" : "2026-06-03 12:31:21 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "units" : "bpm",
+            "Max" : 97,
+            "Min" : 86,
+            "source" : "Zepp",
+            "Avg" : 89.778846153846132,
+            "date" : "2026-06-03 12:32:21 +0530"
+          },
+          {
+            "date" : "2026-06-03 12:33:21 +0530",
+            "units" : "bpm",
+            "Max" : 105,
+            "source" : "Zepp",
+            "Min" : 93,
+            "Avg" : 96.427884615384613
+          },
+          {
+            "Avg" : 100.58730158730158,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:34:21 +0530",
+            "source" : "Zepp",
+            "Max" : 111,
+            "Min" : 99
+          }
+        ],
+        "end" : "2026-06-03 12:34:41 +0530",
+        "activeEnergyBurned" : {
+          "qty" : 166.86352667236329,
+          "units" : "kJ"
+        },
+        "heartRate" : {
+          "max" : {
+            "qty" : 111,
+            "units" : "bpm"
+          },
+          "min" : {
+            "units" : "bpm",
+            "qty" : 82
+          },
+          "avg" : {
+            "qty" : 90.623313714333136,
+            "units" : "bpm"
+          }
+        },
+        "heartRateRecovery" : [
+          {
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:34:59 +0530",
+            "Max" : 97,
+            "Min" : 97,
+            "Avg" : 96.999999999999986
+          },
+          {
+            "Max" : 97,
+            "Min" : 97,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:00 +0530",
+            "source" : "Zepp",
+            "Avg" : 97
+          },
+          {
+            "Min" : 97,
+            "Max" : 97,
+            "units" : "bpm",
+            "Avg" : 97,
+            "date" : "2026-06-03 12:35:01 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "Avg" : 97,
+            "date" : "2026-06-03 12:35:02 +0530",
+            "Max" : 97,
+            "units" : "bpm",
+            "Min" : 97,
+            "source" : "Zepp"
+          },
+          {
+            "Avg" : 97,
+            "date" : "2026-06-03 12:35:03 +0530",
+            "Max" : 97,
+            "source" : "Zepp",
+            "Min" : 97,
+            "units" : "bpm"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 97,
+            "Min" : 97,
+            "Avg" : 97,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:04 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 97,
+            "Min" : 97,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:05 +0530",
+            "Avg" : 97
+          },
+          {
+            "date" : "2026-06-03 12:35:06 +0530",
+            "Min" : 97,
+            "source" : "Zepp",
+            "Avg" : 97,
+            "units" : "bpm",
+            "Max" : 97
+          },
+          {
+            "source" : "Zepp",
+            "Min" : 97,
+            "date" : "2026-06-03 12:35:07 +0530",
+            "Max" : 97,
+            "Avg" : 97,
+            "units" : "bpm"
+          },
+          {
+            "date" : "2026-06-03 12:35:08 +0530",
+            "Max" : 97,
+            "source" : "Zepp",
+            "Min" : 97,
+            "Avg" : 97,
+            "units" : "bpm"
+          },
+          {
+            "date" : "2026-06-03 12:35:09 +0530",
+            "source" : "Zepp",
+            "Avg" : 97,
+            "Min" : 97,
+            "units" : "bpm",
+            "Max" : 97
+          },
+          {
+            "Avg" : 97,
+            "Max" : 97,
+            "Min" : 97,
+            "date" : "2026-06-03 12:35:10 +0530",
+            "source" : "Zepp",
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 97,
+            "Min" : 97,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:35:11 +0530",
+            "Max" : 97
+          },
+          {
+            "source" : "Zepp",
+            "Min" : 97,
+            "Avg" : 97,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:12 +0530",
+            "Max" : 97
+          },
+          {
+            "Max" : 97,
+            "date" : "2026-06-03 12:35:13 +0530",
+            "Min" : 97,
+            "Avg" : 97,
+            "source" : "Zepp",
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 97,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Min" : 97,
+            "Max" : 97,
+            "date" : "2026-06-03 12:35:14 +0530"
+          },
+          {
+            "date" : "2026-06-03 12:35:15 +0530",
+            "Avg" : 97,
+            "Min" : 97,
+            "source" : "Zepp",
+            "Max" : 97,
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 97,
+            "Min" : 97,
+            "date" : "2026-06-03 12:35:16 +0530",
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 97
+          },
+          {
+            "Max" : 97,
+            "Min" : 97,
+            "Avg" : 97,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:35:17 +0530"
+          },
+          {
+            "date" : "2026-06-03 12:35:18 +0530",
+            "units" : "bpm",
+            "Max" : 97,
+            "Avg" : 97,
+            "source" : "Zepp",
+            "Min" : 97
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:35:19 +0530",
+            "Min" : 97,
+            "Max" : 97,
+            "Avg" : 97,
+            "units" : "bpm"
+          },
+          {
+            "source" : "Zepp",
+            "Avg" : 97,
+            "date" : "2026-06-03 12:35:20 +0530",
+            "Max" : 97,
+            "Min" : 97,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 97,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:35:21 +0530",
+            "Max" : 97,
+            "units" : "bpm",
+            "Avg" : 97
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 97,
+            "Min" : 97,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:22 +0530",
+            "Avg" : 97
+          },
+          {
+            "Max" : 97,
+            "date" : "2026-06-03 12:35:23 +0530",
+            "Min" : 97,
+            "source" : "Zepp",
+            "Avg" : 97,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 97,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:24 +0530",
+            "source" : "Zepp",
+            "Max" : 97,
+            "Avg" : 97
+          },
+          {
+            "date" : "2026-06-03 12:35:25 +0530",
+            "Min" : 97,
+            "units" : "bpm",
+            "Avg" : 97,
+            "Max" : 97,
+            "source" : "Zepp"
+          },
+          {
+            "units" : "bpm",
+            "Avg" : 97,
+            "Max" : 97,
+            "Min" : 97,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:35:26 +0530"
+          },
+          {
+            "Avg" : 97,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:27 +0530",
+            "Max" : 97,
+            "Min" : 97
+          },
+          {
+            "source" : "Zepp",
+            "Avg" : 97,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:28 +0530",
+            "Min" : 97,
+            "Max" : 97
+          },
+          {
+            "date" : "2026-06-03 12:35:29 +0530",
+            "Max" : 97,
+            "Avg" : 97,
+            "source" : "Zepp",
+            "Min" : 97,
+            "units" : "bpm"
+          },
+          {
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 97,
+            "date" : "2026-06-03 12:35:30 +0530",
+            "Avg" : 97,
+            "Min" : 97
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 97,
+            "Min" : 97,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:31 +0530",
+            "Avg" : 97
+          },
+          {
+            "units" : "bpm",
+            "Max" : 97,
+            "date" : "2026-06-03 12:35:32 +0530",
+            "Avg" : 97,
+            "Min" : 97,
+            "source" : "Zepp"
+          },
+          {
+            "Max" : 97,
+            "date" : "2026-06-03 12:35:33 +0530",
+            "Avg" : 97,
+            "units" : "bpm",
+            "Min" : 97,
+            "source" : "Zepp"
+          },
+          {
+            "Max" : 97,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Avg" : 97,
+            "date" : "2026-06-03 12:35:34 +0530",
+            "Min" : 97
+          },
+          {
+            "Avg" : 97,
+            "Max" : 97,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:35 +0530",
+            "source" : "Zepp",
+            "Min" : 97
+          },
+          {
+            "Min" : 97,
+            "Avg" : 97,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:36 +0530",
+            "source" : "Zepp",
+            "Max" : 97
+          },
+          {
+            "date" : "2026-06-03 12:35:37 +0530",
+            "units" : "bpm",
+            "Max" : 97,
+            "Min" : 97,
+            "Avg" : 97,
+            "source" : "Zepp"
+          },
+          {
+            "Avg" : 97,
+            "date" : "2026-06-03 12:35:38 +0530",
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 97,
+            "Min" : 97
+          },
+          {
+            "Max" : 97,
+            "date" : "2026-06-03 12:35:39 +0530",
+            "units" : "bpm",
+            "Avg" : 97,
+            "Min" : 97,
+            "source" : "Zepp"
+          },
+          {
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:40 +0530",
+            "source" : "Zepp",
+            "Max" : 97,
+            "Min" : 97,
+            "Avg" : 97
+          },
+          {
+            "Avg" : 97,
+            "Max" : 97,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:35:41 +0530",
+            "Min" : 97,
+            "units" : "bpm"
+          },
+          {
+            "date" : "2026-06-03 12:35:42 +0530",
+            "Max" : 97,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Avg" : 97,
+            "Min" : 97
+          },
+          {
+            "Min" : 97,
+            "date" : "2026-06-03 12:35:43 +0530",
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Avg" : 97,
+            "Max" : 97
+          },
+          {
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Min" : 97,
+            "Avg" : 97,
+            "Max" : 97,
+            "date" : "2026-06-03 12:35:44 +0530"
+          },
+          {
+            "Max" : 97,
+            "units" : "bpm",
+            "Avg" : 97,
+            "Min" : 97,
+            "date" : "2026-06-03 12:35:45 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "Avg" : 97,
+            "date" : "2026-06-03 12:35:46 +0530",
+            "Min" : 97,
+            "Max" : 97,
+            "units" : "bpm"
+          },
+          {
+            "date" : "2026-06-03 12:35:47 +0530",
+            "Avg" : 97,
+            "units" : "bpm",
+            "Max" : 97,
+            "source" : "Zepp",
+            "Min" : 97
+          },
+          {
+            "Avg" : 97,
+            "source" : "Zepp",
+            "Max" : 97,
+            "date" : "2026-06-03 12:35:48 +0530",
+            "Min" : 97,
+            "units" : "bpm"
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:35:49 +0530",
+            "Min" : 97,
+            "Avg" : 97,
+            "Max" : 97,
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 97,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Min" : 97,
+            "Max" : 97,
+            "date" : "2026-06-03 12:35:50 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:35:51 +0530",
+            "units" : "bpm",
+            "Min" : 97,
+            "Max" : 97,
+            "Avg" : 97
+          },
+          {
+            "Avg" : 97,
+            "units" : "bpm",
+            "Max" : 97,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:35:52 +0530",
+            "Min" : 97
+          },
+          {
+            "source" : "Zepp",
+            "Avg" : 97,
+            "Max" : 97,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:53 +0530",
+            "Min" : 97
+          },
+          {
+            "Max" : 97,
+            "Min" : 97,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:35:54 +0530",
+            "source" : "Zepp",
+            "Avg" : 97
+          },
+          {
+            "Avg" : 97,
+            "source" : "Zepp",
+            "Max" : 97,
+            "Min" : 97,
+            "date" : "2026-06-03 12:35:55 +0530",
+            "units" : "bpm"
+          },
+          {
+            "Min" : 97,
+            "Avg" : 97,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Max" : 97,
+            "date" : "2026-06-03 12:35:56 +0530"
+          },
+          {
+            "Max" : 97,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:35:57 +0530",
+            "Avg" : 97,
+            "units" : "bpm",
+            "Min" : 97
+          },
+          {
+            "Max" : 97,
+            "date" : "2026-06-03 12:35:58 +0530",
+            "source" : "Zepp",
+            "Min" : 97,
+            "Avg" : 97.000000000000014,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 98,
+            "date" : "2026-06-03 12:35:59 +0530",
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Avg" : 98.000000000000014,
+            "Max" : 98
+          },
+          {
+            "Max" : 98,
+            "Min" : 98,
+            "Avg" : 98,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:36:00 +0530",
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 98,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:36:01 +0530",
+            "Min" : 98,
+            "Max" : 98,
+            "source" : "Zepp"
+          },
+          {
+            "Max" : 98,
+            "Min" : 98,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:36:02 +0530",
+            "Avg" : 98,
+            "source" : "Zepp"
+          },
+          {
+            "Min" : 98,
+            "units" : "bpm",
+            "Max" : 98,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:36:03 +0530",
+            "Avg" : 98
+          },
+          {
+            "Max" : 98,
+            "date" : "2026-06-03 12:36:04 +0530",
+            "Min" : 98,
+            "source" : "Zepp",
+            "Avg" : 98,
+            "units" : "bpm"
+          },
+          {
+            "units" : "bpm",
+            "Min" : 98,
+            "date" : "2026-06-03 12:36:05 +0530",
+            "Max" : 98,
+            "source" : "Zepp",
+            "Avg" : 98
+          },
+          {
+            "Min" : 98,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:36:06 +0530",
+            "Avg" : 98,
+            "Max" : 98,
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 98,
+            "date" : "2026-06-03 12:36:07 +0530",
+            "Min" : 98,
+            "Avg" : 98,
+            "units" : "bpm"
+          },
+          {
+            "date" : "2026-06-03 12:36:08 +0530",
+            "Avg" : 98,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Min" : 98,
+            "Max" : 98
+          },
+          {
+            "units" : "bpm",
+            "Max" : 98,
+            "date" : "2026-06-03 12:36:09 +0530",
+            "source" : "Zepp",
+            "Min" : 98,
+            "Avg" : 98
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 98,
+            "Min" : 98,
+            "date" : "2026-06-03 12:36:10 +0530",
+            "units" : "bpm",
+            "Avg" : 98
+          },
+          {
+            "Max" : 98,
+            "units" : "bpm",
+            "Avg" : 98,
+            "date" : "2026-06-03 12:36:11 +0530",
+            "Min" : 98,
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 98,
+            "date" : "2026-06-03 12:36:12 +0530",
+            "Min" : 98,
+            "units" : "bpm",
+            "Avg" : 98
+          },
+          {
+            "Max" : 98,
+            "Avg" : 98,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:36:13 +0530",
+            "Min" : 98,
+            "source" : "Zepp"
+          },
+          {
+            "Max" : 98,
+            "date" : "2026-06-03 12:36:14 +0530",
+            "Min" : 98,
+            "Avg" : 98,
+            "source" : "Zepp",
+            "units" : "bpm"
+          },
+          {
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Min" : 98,
+            "date" : "2026-06-03 12:36:15 +0530",
+            "Avg" : 98,
+            "Max" : 98
+          },
+          {
+            "Min" : 98,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:36:16 +0530",
+            "Avg" : 98,
+            "Max" : 98,
+            "units" : "bpm"
+          },
+          {
+            "Max" : 98,
+            "date" : "2026-06-03 12:36:17 +0530",
+            "source" : "Zepp",
+            "Min" : 98,
+            "Avg" : 98,
+            "units" : "bpm"
+          },
+          {
+            "date" : "2026-06-03 12:36:18 +0530",
+            "Min" : 98,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Avg" : 98,
+            "Max" : 98
+          },
+          {
+            "date" : "2026-06-03 12:36:19 +0530",
+            "Min" : 98,
+            "Avg" : 98,
+            "source" : "Zepp",
+            "Max" : 98,
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 98,
+            "Max" : 98,
+            "Min" : 98,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "date" : "2026-06-03 12:36:20 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "Min" : 98,
+            "Avg" : 98,
+            "date" : "2026-06-03 12:36:21 +0530",
+            "units" : "bpm",
+            "Max" : 98
+          },
+          {
+            "Avg" : 98,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:36:22 +0530",
+            "Min" : 98,
+            "units" : "bpm",
+            "Max" : 98
+          },
+          {
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 98,
+            "Avg" : 98,
+            "date" : "2026-06-03 12:36:23 +0530",
+            "Min" : 98
+          },
+          {
+            "Max" : 98,
+            "date" : "2026-06-03 12:36:24 +0530",
+            "Min" : 98,
+            "Avg" : 98,
+            "units" : "bpm",
+            "source" : "Zepp"
+          },
+          {
+            "date" : "2026-06-03 12:36:25 +0530",
+            "Min" : 98,
+            "Avg" : 98,
+            "source" : "Zepp",
+            "Max" : 98,
+            "units" : "bpm"
+          },
+          {
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Avg" : 98,
+            "Max" : 98,
+            "date" : "2026-06-03 12:36:26 +0530",
+            "Min" : 98
+          },
+          {
+            "date" : "2026-06-03 12:36:27 +0530",
+            "source" : "Zepp",
+            "Max" : 98,
+            "Min" : 98,
+            "units" : "bpm",
+            "Avg" : 98
+          },
+          {
+            "Avg" : 98,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "date" : "2026-06-03 12:36:28 +0530",
+            "Min" : 98,
+            "Max" : 98
+          },
+          {
+            "Max" : 98,
+            "date" : "2026-06-03 12:36:29 +0530",
+            "Min" : 98,
+            "Avg" : 98,
+            "source" : "Zepp",
+            "units" : "bpm"
+          },
+          {
+            "Max" : 98,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "date" : "2026-06-03 12:36:30 +0530",
+            "Min" : 98,
+            "Avg" : 98
+          },
+          {
+            "Max" : 98,
+            "units" : "bpm",
+            "Avg" : 98,
+            "date" : "2026-06-03 12:36:31 +0530",
+            "source" : "Zepp",
+            "Min" : 98
+          },
+          {
+            "Min" : 98,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:36:32 +0530",
+            "Avg" : 98,
+            "units" : "bpm",
+            "Max" : 98
+          },
+          {
+            "source" : "Zepp",
+            "Avg" : 98,
+            "units" : "bpm",
+            "Max" : 98,
+            "Min" : 98,
+            "date" : "2026-06-03 12:36:33 +0530"
+          },
+          {
+            "Avg" : 98,
+            "Max" : 98,
+            "Min" : 98,
+            "date" : "2026-06-03 12:36:34 +0530",
+            "units" : "bpm",
+            "source" : "Zepp"
+          },
+          {
+            "units" : "bpm",
+            "Avg" : 98,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:36:35 +0530",
+            "Min" : 98,
+            "Max" : 98
+          },
+          {
+            "Max" : 98,
+            "source" : "Zepp",
+            "Min" : 98,
+            "date" : "2026-06-03 12:36:36 +0530",
+            "Avg" : 98,
+            "units" : "bpm"
+          },
+          {
+            "Max" : 98,
+            "source" : "Zepp",
+            "Avg" : 98,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:36:37 +0530",
+            "Min" : 98
+          },
+          {
+            "Min" : 98,
+            "Avg" : 98,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:36:38 +0530",
+            "source" : "Zepp",
+            "Max" : 98
+          },
+          {
+            "Avg" : 98,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:36:39 +0530",
+            "Min" : 98,
+            "Max" : 98,
+            "units" : "bpm"
+          },
+          {
+            "Max" : 98,
+            "date" : "2026-06-03 12:36:40 +0530",
+            "Min" : 98,
+            "Avg" : 98,
+            "source" : "Zepp",
+            "units" : "bpm"
+          },
+          {
+            "Max" : 98,
+            "date" : "2026-06-03 12:36:41 +0530",
+            "source" : "Zepp",
+            "Min" : 98,
+            "Avg" : 98,
+            "units" : "bpm"
+          }
+        ],
+        "speed" : {
+          "qty" : 3.4993718162974825,
+          "units" : "km\/hr"
+        },
+        "name" : "Indoor Run",
+        "id" : "E3EBA78A-40A4-4C1B-8160-63CA70720F06",
+        "start" : "2026-06-03 12:22:21 +0530"
+      },
+      {
+        "end" : "2026-06-03 12:21:41 +0530",
+        "name" : "Traditional Strength Training",
+        "start" : "2026-06-03 11:38:55 +0530",
+        "avgHeartRate" : {
+          "qty" : 110.89953996387445,
+          "units" : "bpm"
+        },
+        "id" : "36F6B09E-B0C8-4814-BF8C-2F9F8FEF27DC",
+        "activeEnergyBurned" : {
+          "qty" : 1171.52,
+          "units" : "kJ"
+        },
+        "stepCount" : [
+          {
+            "date" : "2026-06-03 11:39:55 +0530",
+            "qty" : 29.565943238731215,
+            "source" : "Zepp",
+            "units" : "steps"
+          },
+          {
+            "qty" : 32.253756260434052,
+            "date" : "2026-06-03 11:40:55 +0530",
+            "source" : "Zepp",
+            "units" : "steps"
+          },
+          {
+            "units" : "steps",
+            "date" : "2026-06-03 11:41:55 +0530",
+            "qty" : 32.253756260434059,
+            "source" : "Zepp"
+          },
+          {
+            "qty" : 32.253756260434059,
+            "source" : "Zepp",
+            "date" : "2026-06-03 11:42:55 +0530",
+            "units" : "steps"
+          },
+          {
+            "date" : "2026-06-03 11:43:55 +0530",
+            "units" : "steps",
+            "qty" : 32.253756260434059,
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 11:44:55 +0530",
+            "units" : "steps",
+            "qty" : 32.253756260434066
+          },
+          {
+            "qty" : 32.253756260434059,
+            "source" : "Zepp",
+            "units" : "steps",
+            "date" : "2026-06-03 11:45:55 +0530"
+          },
+          {
+            "qty" : 1.4892058020011032,
+            "date" : "2026-06-03 11:46:55 +0530",
+            "units" : "steps",
+            "source" : "iPhone|Zepp"
+          },
+          {
+            "date" : "2026-06-03 11:47:55 +0530",
+            "source" : "iPhone|Zepp",
+            "units" : "steps",
+            "qty" : 6.8844358961257868
+          },
+          {
+            "qty" : 6.8844358961257859,
+            "units" : "steps",
+            "source" : "iPhone|Zepp",
+            "date" : "2026-06-03 11:48:55 +0530"
+          },
+          {
+            "date" : "2026-06-03 11:49:55 +0530",
+            "units" : "steps",
+            "qty" : 6.8844358961257859,
+            "source" : "iPhone|Zepp"
+          },
+          {
+            "source" : "iPhone|Zepp",
+            "units" : "steps",
+            "date" : "2026-06-03 11:50:55 +0530",
+            "qty" : 6.8844358961257859
+          },
+          {
+            "source" : "iPhone|Zepp",
+            "units" : "steps",
+            "date" : "2026-06-03 11:51:55 +0530",
+            "qty" : 6.8844358961257859
+          },
+          {
+            "source" : "iPhone|Zepp",
+            "units" : "steps",
+            "qty" : 6.8844358961257859,
+            "date" : "2026-06-03 11:52:55 +0530"
+          },
+          {
+            "units" : "steps",
+            "source" : "iPhone|Zepp",
+            "date" : "2026-06-03 11:53:55 +0530",
+            "qty" : 6.8844358961257859
+          },
+          {
+            "units" : "steps",
+            "source" : "iPhone|Zepp",
+            "date" : "2026-06-03 11:54:55 +0530",
+            "qty" : 6.884435896125785
+          },
+          {
+            "date" : "2026-06-03 11:55:55 +0530",
+            "units" : "steps",
+            "source" : "iPhone|Zepp",
+            "qty" : 6.884435896125785
+          },
+          {
+            "units" : "steps",
+            "source" : "iPhone|Zepp",
+            "date" : "2026-06-03 11:56:55 +0530",
+            "qty" : 27.639039741549855
+          },
+          {
+            "source" : "iPhone|Zepp",
+            "qty" : 5.9118313913169587,
+            "units" : "steps",
+            "date" : "2026-06-03 11:57:55 +0530"
+          },
+          {
+            "date" : "2026-06-03 11:58:55 +0530",
+            "qty" : 40.86811352253757,
+            "units" : "steps",
+            "source" : "iPhone|Zepp"
+          },
+          {
+            "source" : "iPhone|Zepp",
+            "qty" : 26.505843071786312,
+            "units" : "steps",
+            "date" : "2026-06-03 11:59:55 +0530"
+          },
+          {
+            "source" : "iPhone|Zepp",
+            "units" : "steps",
+            "qty" : 25.943238731218699,
+            "date" : "2026-06-03 12:00:55 +0530"
+          },
+          {
+            "source" : "iPhone|Zepp",
+            "units" : "steps",
+            "qty" : 25.943238731218699,
+            "date" : "2026-06-03 12:01:55 +0530"
+          },
+          {
+            "date" : "2026-06-03 12:02:55 +0530",
+            "qty" : 25.943238731218699,
+            "source" : "iPhone|Zepp",
+            "units" : "steps"
+          },
+          {
+            "units" : "steps",
+            "date" : "2026-06-03 12:03:55 +0530",
+            "qty" : 25.943238731218702,
+            "source" : "iPhone|Zepp"
+          },
+          {
+            "date" : "2026-06-03 12:04:55 +0530",
+            "qty" : 25.943238731218699,
+            "source" : "iPhone|Zepp",
+            "units" : "steps"
+          },
+          {
+            "qty" : 25.943238731218699,
+            "source" : "iPhone|Zepp",
+            "date" : "2026-06-03 12:05:55 +0530",
+            "units" : "steps"
+          },
+          {
+            "date" : "2026-06-03 12:06:55 +0530",
+            "units" : "steps",
+            "source" : "iPhone|Zepp",
+            "qty" : 25.943238731218699
+          },
+          {
+            "qty" : 25.943238731218699,
+            "source" : "iPhone|Zepp",
+            "date" : "2026-06-03 12:07:55 +0530",
+            "units" : "steps"
+          },
+          {
+            "qty" : 25.943238731218699,
+            "date" : "2026-06-03 12:08:55 +0530",
+            "source" : "iPhone|Zepp",
+            "units" : "steps"
+          },
+          {
+            "qty" : 9.553093676314159,
+            "date" : "2026-06-03 12:09:55 +0530",
+            "source" : "iPhone|Zepp",
+            "units" : "steps"
+          },
+          {
+            "units" : "steps",
+            "source" : "iPhone|Zepp",
+            "date" : "2026-06-03 12:10:55 +0530",
+            "qty" : 24.064933913992121
+          },
+          {
+            "qty" : 24.064933913992117,
+            "source" : "iPhone|Zepp",
+            "date" : "2026-06-03 12:11:55 +0530",
+            "units" : "steps"
+          },
+          {
+            "qty" : 24.064933913992117,
+            "date" : "2026-06-03 12:12:55 +0530",
+            "units" : "steps",
+            "source" : "iPhone|Zepp"
+          },
+          {
+            "date" : "2026-06-03 12:13:55 +0530",
+            "source" : "iPhone|Zepp",
+            "qty" : 24.064933913992117,
+            "units" : "steps"
+          },
+          {
+            "qty" : 24.064933913992117,
+            "date" : "2026-06-03 12:14:55 +0530",
+            "units" : "steps",
+            "source" : "iPhone|Zepp"
+          },
+          {
+            "units" : "steps",
+            "qty" : 24.064933913992117,
+            "date" : "2026-06-03 12:15:55 +0530",
+            "source" : "iPhone|Zepp"
+          },
+          {
+            "source" : "iPhone|Zepp",
+            "units" : "steps",
+            "date" : "2026-06-03 12:16:55 +0530",
+            "qty" : 24.064933913992114
+          },
+          {
+            "qty" : 24.064933913992114,
+            "source" : "iPhone|Zepp",
+            "units" : "steps",
+            "date" : "2026-06-03 12:17:55 +0530"
+          },
+          {
+            "units" : "steps",
+            "qty" : 6.9274350117488979,
+            "date" : "2026-06-03 12:18:55 +0530",
+            "source" : "iPhone|Zepp"
+          },
+          {
+            "qty" : 37.862485329471198,
+            "date" : "2026-06-03 12:19:55 +0530",
+            "source" : "iPhone|Zepp",
+            "units" : "steps"
+          },
+          {
+            "units" : "steps",
+            "qty" : 62.547653471493312,
+            "date" : "2026-06-03 12:20:55 +0530",
+            "source" : "iPhone|Zepp"
+          }
+        ],
+        "heartRate" : {
+          "avg" : {
+            "qty" : 110.89953996387445,
+            "units" : "bpm"
+          },
+          "max" : {
+            "units" : "bpm",
+            "qty" : 142
+          },
+          "min" : {
+            "qty" : 77,
+            "units" : "bpm"
+          }
+        },
+        "heartRateRecovery" : [
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:00 +0530",
+            "Max" : 93,
+            "Min" : 93,
+            "Avg" : 93.000000000000014,
+            "units" : "bpm"
+          },
+          {
+            "date" : "2026-06-03 12:22:01 +0530",
+            "units" : "bpm",
+            "Avg" : 93.000000000000014,
+            "source" : "Zepp",
+            "Min" : 93,
+            "Max" : 93
+          },
+          {
+            "Avg" : 93.000000000000014,
+            "source" : "Zepp",
+            "Min" : 93,
+            "Max" : 93,
+            "date" : "2026-06-03 12:22:02 +0530",
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 93.000000000000014,
+            "Min" : 93,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:03 +0530",
+            "Max" : 93,
+            "units" : "bpm"
+          },
+          {
+            "units" : "bpm",
+            "date" : "2026-06-03 12:22:04 +0530",
+            "Avg" : 93.000000000000014,
+            "Min" : 93,
+            "source" : "Zepp",
+            "Max" : 93
+          },
+          {
+            "Avg" : 93.000000000000014,
+            "Max" : 93,
+            "Min" : 93,
+            "date" : "2026-06-03 12:22:05 +0530",
+            "units" : "bpm",
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 93,
+            "Min" : 93,
+            "Avg" : 93.000000000000014,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:22:06 +0530"
+          },
+          {
+            "units" : "bpm",
+            "Max" : 93,
+            "date" : "2026-06-03 12:22:07 +0530",
+            "Min" : 93,
+            "Avg" : 93.000000000000014,
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 93,
+            "Avg" : 93.000000000000014,
+            "units" : "bpm",
+            "Min" : 93,
+            "date" : "2026-06-03 12:22:08 +0530"
+          },
+          {
+            "Min" : 93,
+            "date" : "2026-06-03 12:22:09 +0530",
+            "Avg" : 93.000000000000014,
+            "Max" : 93,
+            "source" : "Zepp",
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 93.000000000000014,
+            "Min" : 93,
+            "date" : "2026-06-03 12:22:10 +0530",
+            "Max" : 93,
+            "units" : "bpm",
+            "source" : "Zepp"
+          },
+          {
+            "Min" : 93,
+            "Avg" : 93.000000000000014,
+            "units" : "bpm",
+            "Max" : 93,
+            "date" : "2026-06-03 12:22:11 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 93,
+            "date" : "2026-06-03 12:22:12 +0530",
+            "Min" : 93,
+            "units" : "bpm",
+            "Avg" : 93.000000000000014
+          },
+          {
+            "Avg" : 93.000000000000014,
+            "date" : "2026-06-03 12:22:13 +0530",
+            "units" : "bpm",
+            "Max" : 93,
+            "Min" : 93,
+            "source" : "Zepp"
+          },
+          {
+            "Max" : 93,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Avg" : 93.000000000000014,
+            "Min" : 93,
+            "date" : "2026-06-03 12:22:14 +0530"
+          },
+          {
+            "Max" : 93,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Min" : 93,
+            "Avg" : 93.000000000000014,
+            "date" : "2026-06-03 12:22:15 +0530"
+          },
+          {
+            "Min" : 93,
+            "units" : "bpm",
+            "Max" : 93,
+            "Avg" : 93.000000000000014,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:16 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "Avg" : 93.000000000000014,
+            "Min" : 93,
+            "Max" : 93,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:22:17 +0530"
+          },
+          {
+            "date" : "2026-06-03 12:22:18 +0530",
+            "Max" : 93,
+            "Avg" : 93.000000000000014,
+            "units" : "bpm",
+            "Min" : 93,
+            "source" : "Zepp"
+          },
+          {
+            "Max" : 93,
+            "Min" : 93,
+            "Avg" : 93.000000000000014,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:19 +0530",
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 93.000000000000014,
+            "Max" : 93,
+            "date" : "2026-06-03 12:22:20 +0530",
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Min" : 93
+          },
+          {
+            "units" : "bpm",
+            "Max" : 93,
+            "date" : "2026-06-03 12:22:21 +0530",
+            "Avg" : 93.000000000000014,
+            "source" : "Zepp",
+            "Min" : 93
+          },
+          {
+            "Avg" : 91.533333333333346,
+            "Max" : 93,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Min" : 90,
+            "date" : "2026-06-03 12:22:22 +0530"
+          },
+          {
+            "units" : "bpm",
+            "Min" : 93,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:23 +0530",
+            "Max" : 93,
+            "Avg" : 93.000000000000014
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 93,
+            "Min" : 89,
+            "date" : "2026-06-03 12:22:24 +0530",
+            "Avg" : 91.044444444444451,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 91,
+            "Avg" : 92.022222222222226,
+            "source" : "Zepp",
+            "Max" : 93,
+            "date" : "2026-06-03 12:22:25 +0530",
+            "units" : "bpm"
+          },
+          {
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Avg" : 92.022222222222226,
+            "date" : "2026-06-03 12:22:26 +0530",
+            "Min" : 91,
+            "Max" : 93
+          },
+          {
+            "date" : "2026-06-03 12:22:27 +0530",
+            "Min" : 90,
+            "source" : "Zepp",
+            "Avg" : 91.533333333333346,
+            "units" : "bpm",
+            "Max" : 93
+          },
+          {
+            "Min" : 93,
+            "Avg" : 93.000000000000014,
+            "units" : "bpm",
+            "Max" : 93,
+            "date" : "2026-06-03 12:22:28 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:29 +0530",
+            "Min" : 93,
+            "Max" : 93,
+            "Avg" : 93.000000000000014,
+            "units" : "bpm"
+          },
+          {
+            "units" : "bpm",
+            "Avg" : 92.522222222222226,
+            "Max" : 93,
+            "date" : "2026-06-03 12:22:30 +0530",
+            "Min" : 91,
+            "source" : "Zepp"
+          },
+          {
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 93,
+            "Avg" : 92.51111111111112,
+            "date" : "2026-06-03 12:22:31 +0530",
+            "Min" : 92
+          },
+          {
+            "source" : "Zepp",
+            "units" : "bpm",
+            "date" : "2026-06-03 12:22:32 +0530",
+            "Max" : 93,
+            "Min" : 92,
+            "Avg" : 92.51111111111112
+          },
+          {
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:33 +0530",
+            "Min" : 92,
+            "Max" : 93,
+            "Avg" : 92.51111111111112
+          },
+          {
+            "Min" : 91,
+            "Max" : 93,
+            "date" : "2026-06-03 12:22:34 +0530",
+            "Avg" : 92.022222222222226,
+            "units" : "bpm",
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 93,
+            "Avg" : 92.022222222222226,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:22:35 +0530",
+            "Min" : 91
+          },
+          {
+            "Max" : 93,
+            "source" : "Zepp",
+            "Min" : 91,
+            "Avg" : 92.022222222222226,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:22:36 +0530"
+          },
+          {
+            "Min" : 92,
+            "Avg" : 92.51111111111112,
+            "units" : "bpm",
+            "Max" : 93,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:37 +0530"
+          },
+          {
+            "units" : "bpm",
+            "date" : "2026-06-03 12:22:38 +0530",
+            "Min" : 93,
+            "source" : "Zepp",
+            "Avg" : 93.000000000000014,
+            "Max" : 93
+          },
+          {
+            "Max" : 93,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:39 +0530",
+            "Min" : 91,
+            "Avg" : 92.01111111111112
+          },
+          {
+            "Min" : 90,
+            "Max" : 93,
+            "date" : "2026-06-03 12:22:40 +0530",
+            "Avg" : 91.533333333333346,
+            "source" : "Zepp",
+            "units" : "bpm"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 93,
+            "date" : "2026-06-03 12:22:41 +0530",
+            "Avg" : 92.022222222222226,
+            "Min" : 91,
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 92.022222222222226,
+            "units" : "bpm",
+            "Max" : 93,
+            "source" : "Zepp",
+            "Min" : 91,
+            "date" : "2026-06-03 12:22:42 +0530"
+          },
+          {
+            "Min" : 89,
+            "Max" : 93,
+            "Avg" : 91.044444444444451,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:43 +0530",
+            "units" : "bpm"
+          },
+          {
+            "units" : "bpm",
+            "Avg" : 90.555555555555557,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:44 +0530",
+            "Min" : 88,
+            "Max" : 93
+          },
+          {
+            "units" : "bpm",
+            "Max" : 93,
+            "source" : "Zepp",
+            "Min" : 89,
+            "date" : "2026-06-03 12:22:45 +0530",
+            "Avg" : 91.044444444444451
+          },
+          {
+            "Max" : 93,
+            "Min" : 90,
+            "date" : "2026-06-03 12:22:46 +0530",
+            "Avg" : 91.533333333333346,
+            "units" : "bpm",
+            "source" : "Zepp"
+          },
+          {
+            "Min" : 91,
+            "Max" : 93,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:47 +0530",
+            "Avg" : 92.022222222222226,
+            "units" : "bpm"
+          },
+          {
+            "source" : "Zepp",
+            "Avg" : 91.533333333333346,
+            "Min" : 90,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:22:48 +0530",
+            "Max" : 93
+          },
+          {
+            "Min" : 92,
+            "Max" : 93,
+            "units" : "bpm",
+            "Avg" : 92.51111111111112,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:49 +0530"
+          },
+          {
+            "Max" : 93,
+            "Avg" : 93.000000000000014,
+            "date" : "2026-06-03 12:22:50 +0530",
+            "source" : "Zepp",
+            "Min" : 93,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 93,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:22:51 +0530",
+            "Avg" : 93.000000000000014,
+            "source" : "Zepp",
+            "Max" : 93
+          },
+          {
+            "Max" : 93,
+            "Min" : 93,
+            "Avg" : 93.000000000000014,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:52 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:53 +0530",
+            "Min" : 93,
+            "Avg" : 93.000000000000014,
+            "Max" : 93,
+            "units" : "bpm"
+          },
+          {
+            "Max" : 93,
+            "Min" : 93,
+            "units" : "bpm",
+            "Avg" : 93.000000000000014,
+            "date" : "2026-06-03 12:22:54 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "Min" : 93,
+            "Avg" : 93.000000000000014,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:22:55 +0530",
+            "Max" : 93,
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 93,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:22:56 +0530",
+            "Min" : 93,
+            "Avg" : 93.000000000000014
+          },
+          {
+            "Min" : 93,
+            "date" : "2026-06-03 12:22:57 +0530",
+            "source" : "Zepp",
+            "Max" : 93,
+            "Avg" : 93.000000000000014,
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 93.000000000000014,
+            "source" : "Zepp",
+            "Max" : 93,
+            "units" : "bpm",
+            "Min" : 93,
+            "date" : "2026-06-03 12:22:58 +0530"
+          },
+          {
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:22:59 +0530",
+            "Min" : 90,
+            "Max" : 90,
+            "Avg" : 90
+          },
+          {
+            "date" : "2026-06-03 12:23:00 +0530",
+            "source" : "Zepp",
+            "Max" : 96,
+            "Min" : 90,
+            "Avg" : 93.065217391304344,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 90,
+            "Avg" : 93.066666666666663,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:23:01 +0530",
+            "Max" : 96,
+            "source" : "Zepp"
+          },
+          {
+            "Max" : 96,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:23:02 +0530",
+            "Min" : 89,
+            "Avg" : 92.577777777777783,
+            "units" : "bpm"
+          },
+          {
+            "date" : "2026-06-03 12:23:03 +0530",
+            "source" : "Zepp",
+            "Avg" : 92.577777777777783,
+            "Min" : 89,
+            "Max" : 96,
+            "units" : "bpm"
+          },
+          {
+            "date" : "2026-06-03 12:23:04 +0530",
+            "Max" : 96,
+            "source" : "Zepp",
+            "Min" : 90,
+            "Avg" : 93.066666666666663,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 90,
+            "Avg" : 93.066666666666663,
+            "units" : "bpm",
+            "Max" : 96,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:23:05 +0530"
+          },
+          {
+            "date" : "2026-06-03 12:23:06 +0530",
+            "source" : "Zepp",
+            "Avg" : 91.600000000000009,
+            "units" : "bpm",
+            "Min" : 87,
+            "Max" : 96
+          },
+          {
+            "source" : "Zepp",
+            "Avg" : 91.600000000000009,
+            "Min" : 87,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:23:07 +0530",
+            "Max" : 96
+          },
+          {
+            "source" : "Zepp",
+            "Avg" : 94.533333333333331,
+            "date" : "2026-06-03 12:23:08 +0530",
+            "Max" : 96,
+            "units" : "bpm",
+            "Min" : 93
+          },
+          {
+            "date" : "2026-06-03 12:23:09 +0530",
+            "Max" : 96,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Min" : 95,
+            "Avg" : 95.511111111111106
+          },
+          {
+            "Avg" : 95.022222222222211,
+            "date" : "2026-06-03 12:23:10 +0530",
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 96,
+            "Min" : 94
+          },
+          {
+            "source" : "Zepp",
+            "Min" : 91,
+            "date" : "2026-06-03 12:23:11 +0530",
+            "Avg" : 93.555555555555557,
+            "units" : "bpm",
+            "Max" : 96
+          },
+          {
+            "date" : "2026-06-03 12:23:12 +0530",
+            "Min" : 91,
+            "Avg" : 93.555555555555557,
+            "units" : "bpm",
+            "Max" : 96,
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 96,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:23:13 +0530",
+            "Min" : 96,
+            "Avg" : 96
+          },
+          {
+            "Min" : 95,
+            "Avg" : 96.011111111111106,
+            "Max" : 96,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:23:14 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "units" : "bpm",
+            "date" : "2026-06-03 12:23:15 +0530",
+            "Min" : 96,
+            "source" : "Zepp",
+            "Max" : 96,
+            "Avg" : 96
+          },
+          {
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 96,
+            "date" : "2026-06-03 12:23:16 +0530",
+            "Avg" : 95.511111111111106,
+            "Min" : 95
+          },
+          {
+            "Avg" : 95.511111111111106,
+            "Min" : 95,
+            "Max" : 96,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "date" : "2026-06-03 12:23:17 +0530"
+          },
+          {
+            "Max" : 96,
+            "Avg" : 96,
+            "source" : "Zepp",
+            "Min" : 96,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:23:18 +0530"
+          },
+          {
+            "Avg" : 97.955555555555563,
+            "date" : "2026-06-03 12:23:19 +0530",
+            "Max" : 100,
+            "source" : "Zepp",
+            "Min" : 96,
+            "units" : "bpm"
+          },
+          {
+            "Max" : 99,
+            "Avg" : 97.466666666666683,
+            "Min" : 96,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:23:20 +0530",
+            "units" : "bpm"
+          },
+          {
+            "units" : "bpm",
+            "date" : "2026-06-03 12:23:21 +0530",
+            "Max" : 101,
+            "Min" : 96,
+            "Avg" : 98.444444444444457,
+            "source" : "Zepp"
+          },
+          {
+            "units" : "bpm",
+            "date" : "2026-06-03 12:23:22 +0530",
+            "source" : "Zepp",
+            "Min" : 96,
+            "Avg" : 99.422222222222231,
+            "Max" : 103
+          },
+          {
+            "Max" : 96,
+            "Avg" : 96,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Min" : 96,
+            "date" : "2026-06-03 12:23:23 +0530"
+          },
+          {
+            "Max" : 103,
+            "source" : "Zepp",
+            "Avg" : 98.922222222222231,
+            "Min" : 96,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:23:24 +0530"
+          },
+          {
+            "Avg" : 98.933333333333351,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:23:25 +0530",
+            "Max" : 102,
+            "Min" : 96
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 102,
+            "Avg" : 98.933333333333351,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:23:26 +0530",
+            "Min" : 96
+          },
+          {
+            "Min" : 96,
+            "Max" : 103,
+            "Avg" : 99.422222222222231,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:23:27 +0530",
+            "units" : "bpm"
+          },
+          {
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Avg" : 99.911111111111111,
+            "Min" : 96,
+            "Max" : 104,
+            "date" : "2026-06-03 12:23:28 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 105,
+            "Avg" : 100.40000000000001,
+            "units" : "bpm",
+            "Min" : 96,
+            "date" : "2026-06-03 12:23:29 +0530"
+          },
+          {
+            "Avg" : 100.40000000000001,
+            "Max" : 105,
+            "date" : "2026-06-03 12:23:30 +0530",
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Min" : 96
+          },
+          {
+            "date" : "2026-06-03 12:23:31 +0530",
+            "Max" : 105,
+            "Avg" : 100.40000000000001,
+            "units" : "bpm",
+            "Min" : 96,
+            "source" : "Zepp"
+          },
+          {
+            "Avg" : 99.911111111111111,
+            "source" : "Zepp",
+            "Min" : 96,
+            "Max" : 104,
+            "date" : "2026-06-03 12:23:32 +0530",
+            "units" : "bpm"
+          },
+          {
+            "source" : "Zepp",
+            "Avg" : 96,
+            "Min" : 96,
+            "date" : "2026-06-03 12:23:33 +0530",
+            "Max" : 96,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 96,
+            "Max" : 104,
+            "date" : "2026-06-03 12:23:34 +0530",
+            "source" : "Zepp",
+            "Avg" : 99.911111111111111,
+            "units" : "bpm"
+          },
+          {
+            "units" : "bpm",
+            "Max" : 104,
+            "Avg" : 99.911111111111111,
+            "date" : "2026-06-03 12:23:35 +0530",
+            "Min" : 96,
+            "source" : "Zepp"
+          },
+          {
+            "Max" : 104,
+            "date" : "2026-06-03 12:23:36 +0530",
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Avg" : 99.911111111111111,
+            "Min" : 96
+          },
+          {
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 103,
+            "Min" : 96,
+            "Avg" : 99.422222222222231,
+            "date" : "2026-06-03 12:23:37 +0530"
+          },
+          {
+            "Max" : 103,
+            "Min" : 96,
+            "date" : "2026-06-03 12:23:38 +0530",
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Avg" : 99.422222222222231
+          },
+          {
+            "Max" : 103,
+            "source" : "Zepp",
+            "Min" : 96,
+            "Avg" : 99.422222222222231,
+            "date" : "2026-06-03 12:23:39 +0530",
+            "units" : "bpm"
+          },
+          {
+            "date" : "2026-06-03 12:23:40 +0530",
+            "Min" : 96,
+            "source" : "Zepp",
+            "Max" : 102,
+            "Avg" : 98.933333333333351,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 96,
+            "Avg" : 96,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:23:41 +0530",
+            "Max" : 96
+          }
+        ],
+        "heartRateData" : [
+          {
+            "Avg" : 112.48543689320388,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 127,
+            "Min" : 96,
+            "date" : "2026-06-03 11:38:55 +0530"
+          },
+          {
+            "date" : "2026-06-03 11:39:55 +0530",
+            "units" : "bpm",
+            "Avg" : 117.94711538461542,
+            "Min" : 108,
+            "source" : "Zepp",
+            "Max" : 134
+          },
+          {
+            "units" : "bpm",
+            "date" : "2026-06-03 11:40:55 +0530",
+            "source" : "Zepp",
+            "Min" : 109,
+            "Max" : 141,
+            "Avg" : 120.69230769230764
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 126,
+            "date" : "2026-06-03 11:41:55 +0530",
+            "Avg" : 102.71153846153847,
+            "Min" : 77,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 87,
+            "date" : "2026-06-03 11:42:55 +0530",
+            "Avg" : 97.399038461538467,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Max" : 105
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 120,
+            "units" : "bpm",
+            "date" : "2026-06-03 11:43:55 +0530",
+            "Min" : 95,
+            "Avg" : 102.99519230769228
+          },
+          {
+            "Min" : 101,
+            "Max" : 114,
+            "Avg" : 107.25,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 11:44:55 +0530"
+          },
+          {
+            "Max" : 118,
+            "Min" : 106,
+            "source" : "Zepp",
+            "Avg" : 110.44711538461534,
+            "units" : "bpm",
+            "date" : "2026-06-03 11:45:55 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "Max" : 115,
+            "Min" : 99,
+            "date" : "2026-06-03 11:46:55 +0530",
+            "Avg" : 105.81730769230768,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 97,
+            "Avg" : 110.45192307692307,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 122,
+            "date" : "2026-06-03 11:47:55 +0530"
+          },
+          {
+            "date" : "2026-06-03 11:48:55 +0530",
+            "Max" : 123.99999999999999,
+            "Min" : 106,
+            "Avg" : 110.26442307692305,
+            "units" : "bpm",
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 11:49:55 +0530",
+            "Max" : 120,
+            "Min" : 99,
+            "units" : "bpm",
+            "Avg" : 109.15384615384615
+          },
+          {
+            "Min" : 95,
+            "source" : "Zepp",
+            "Max" : 115,
+            "date" : "2026-06-03 11:50:55 +0530",
+            "Avg" : 106.83173076923075,
+            "units" : "bpm"
+          },
+          {
+            "Max" : 142,
+            "Min" : 103,
+            "Avg" : 121.27403846153844,
+            "units" : "bpm",
+            "date" : "2026-06-03 11:51:55 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "date" : "2026-06-03 11:52:55 +0530",
+            "source" : "Zepp",
+            "Max" : 142,
+            "Avg" : 130.80097087378638,
+            "units" : "bpm",
+            "Min" : 122.99999999999999
+          },
+          {
+            "units" : "bpm",
+            "Min" : 122,
+            "date" : "2026-06-03 11:53:55 +0530",
+            "source" : "Zepp",
+            "Avg" : 125.34615384615385,
+            "Max" : 129
+          },
+          {
+            "Min" : 121,
+            "source" : "Zepp",
+            "date" : "2026-06-03 11:54:55 +0530",
+            "Max" : 137,
+            "Avg" : 128.06250000000006,
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 127.45192307692301,
+            "date" : "2026-06-03 11:55:55 +0530",
+            "units" : "bpm",
+            "Min" : 121,
+            "source" : "Zepp",
+            "Max" : 139
+          },
+          {
+            "Avg" : 121.85576923076921,
+            "date" : "2026-06-03 11:56:55 +0530",
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 128,
+            "Min" : 114
+          },
+          {
+            "source" : "Zepp",
+            "units" : "bpm",
+            "date" : "2026-06-03 11:57:55 +0530",
+            "Avg" : 114.8509615384615,
+            "Min" : 104,
+            "Max" : 122
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 11:58:55 +0530",
+            "Max" : 115,
+            "Min" : 95,
+            "Avg" : 104.74038461538461,
+            "units" : "bpm"
+          },
+          {
+            "Max" : 105,
+            "source" : "Zepp",
+            "date" : "2026-06-03 11:59:55 +0530",
+            "Avg" : 95.000000000000043,
+            "units" : "bpm",
+            "Min" : 85
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:00:55 +0530",
+            "Avg" : 102.1875,
+            "Min" : 86,
+            "Max" : 121,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 101,
+            "source" : "Zepp",
+            "Avg" : 111.30582524271844,
+            "units" : "bpm",
+            "Max" : 122.99999999999999,
+            "date" : "2026-06-03 12:01:55 +0530"
+          },
+          {
+            "Avg" : 114.93269230769231,
+            "Min" : 109,
+            "date" : "2026-06-03 12:02:55 +0530",
+            "source" : "Zepp",
+            "Max" : 122,
+            "units" : "bpm"
+          },
+          {
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 130,
+            "date" : "2026-06-03 12:03:55 +0530",
+            "Min" : 113,
+            "Avg" : 117.73076923076924
+          },
+          {
+            "Min" : 111,
+            "Avg" : 115.70192307692305,
+            "Max" : 121,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:04:55 +0530",
+            "units" : "bpm"
+          },
+          {
+            "Max" : 130,
+            "units" : "bpm",
+            "Min" : 103,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:05:55 +0530",
+            "Avg" : 111.54807692307693
+          },
+          {
+            "date" : "2026-06-03 12:06:55 +0530",
+            "Max" : 129,
+            "Min" : 93,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Avg" : 104.25961538461539
+          },
+          {
+            "Avg" : 98.298076923076948,
+            "Min" : 89,
+            "date" : "2026-06-03 12:07:55 +0530",
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Max" : 112
+          },
+          {
+            "units" : "bpm",
+            "date" : "2026-06-03 12:08:55 +0530",
+            "Avg" : 104.57692307692308,
+            "source" : "Zepp",
+            "Max" : 127,
+            "Min" : 87
+          },
+          {
+            "date" : "2026-06-03 12:09:55 +0530",
+            "Avg" : 112.69230769230768,
+            "source" : "Zepp",
+            "Max" : 129,
+            "Min" : 99,
+            "units" : "bpm"
+          },
+          {
+            "Avg" : 121.53365384615383,
+            "source" : "Zepp",
+            "units" : "bpm",
+            "Min" : 116,
+            "Max" : 130,
+            "date" : "2026-06-03 12:10:55 +0530"
+          },
+          {
+            "Avg" : 115.07211538461536,
+            "date" : "2026-06-03 12:11:55 +0530",
+            "units" : "bpm",
+            "Min" : 99,
+            "source" : "Zepp",
+            "Max" : 127
+          },
+          {
+            "date" : "2026-06-03 12:12:55 +0530",
+            "source" : "Zepp",
+            "Max" : 116,
+            "Avg" : 111.4514563106796,
+            "Min" : 108,
+            "units" : "bpm"
+          },
+          {
+            "units" : "bpm",
+            "Avg" : 104.08173076923076,
+            "Max" : 112,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:13:55 +0530",
+            "Min" : 94
+          },
+          {
+            "Max" : 116,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Min" : 94,
+            "Avg" : 105.86057692307689,
+            "date" : "2026-06-03 12:14:55 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "Min" : 105,
+            "Max" : 118,
+            "date" : "2026-06-03 12:15:55 +0530",
+            "Avg" : 106.77884615384615,
+            "units" : "bpm"
+          },
+          {
+            "Min" : 107,
+            "Avg" : 110.69902912621357,
+            "Max" : 121,
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:16:55 +0530"
+          },
+          {
+            "Max" : 112,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:17:55 +0530",
+            "Avg" : 105.43269230769232,
+            "Min" : 96,
+            "units" : "bpm"
+          },
+          {
+            "source" : "Zepp",
+            "Avg" : 102.85096153846155,
+            "units" : "bpm",
+            "date" : "2026-06-03 12:18:55 +0530",
+            "Max" : 111,
+            "Min" : 96
+          },
+          {
+            "units" : "bpm",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:19:55 +0530",
+            "Max" : 119,
+            "Min" : 102,
+            "Avg" : 105.60576923076924
+          },
+          {
+            "date" : "2026-06-03 12:20:55 +0530",
+            "units" : "bpm",
+            "source" : "Zepp",
+            "Min" : 98,
+            "Max" : 112,
+            "Avg" : 102.25000000000001
+          }
+        ],
+        "maxHeartRate" : {
+          "qty" : 142,
+          "units" : "bpm"
+        },
+        "stepCadence" : {
+          "units" : "count\/min",
+          "qty" : 21.754366128860308
+        },
+        "activeEnergy" : [
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 11:39:55 +0530",
+            "units" : "kJ",
+            "qty" : 24.58711185308848
+          },
+          {
+            "units" : "kJ",
+            "source" : "Zepp",
+            "qty" : 26.822303839732889,
+            "date" : "2026-06-03 11:40:55 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "units" : "kJ",
+            "date" : "2026-06-03 11:41:55 +0530",
+            "qty" : 26.822303839732889
+          },
+          {
+            "qty" : 26.822303839732886,
+            "date" : "2026-06-03 11:42:55 +0530",
+            "source" : "Zepp",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-06-03 11:43:55 +0530",
+            "source" : "Zepp",
+            "units" : "kJ",
+            "qty" : 26.822303839732889
+          },
+          {
+            "qty" : 26.822303839732889,
+            "source" : "Zepp",
+            "units" : "kJ",
+            "date" : "2026-06-03 11:44:55 +0530"
+          },
+          {
+            "qty" : 26.822303839732886,
+            "source" : "Zepp",
+            "date" : "2026-06-03 11:45:55 +0530",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Zepp",
+            "qty" : 26.822303839732889,
+            "date" : "2026-06-03 11:46:55 +0530",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 26.822303839732889,
+            "units" : "kJ",
+            "date" : "2026-06-03 11:47:55 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "qty" : 26.822303839732889,
+            "source" : "Zepp",
+            "date" : "2026-06-03 11:48:55 +0530",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 27.143612687813022,
+            "date" : "2026-06-03 11:49:55 +0530",
+            "units" : "kJ",
+            "source" : "Zepp"
+          },
+          {
+            "units" : "kJ",
+            "qty" : 27.660500834724541,
+            "date" : "2026-06-03 11:50:55 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-06-03 11:51:55 +0530",
+            "source" : "Zepp",
+            "qty" : 27.660500834724541
+          },
+          {
+            "units" : "kJ",
+            "source" : "Zepp",
+            "qty" : 27.660500834724541,
+            "date" : "2026-06-03 11:52:55 +0530"
+          },
+          {
+            "qty" : 27.660500834724544,
+            "source" : "Zepp",
+            "date" : "2026-06-03 11:53:55 +0530",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 27.660500834724548,
+            "source" : "Zepp",
+            "units" : "kJ",
+            "date" : "2026-06-03 11:54:55 +0530"
+          },
+          {
+            "qty" : 27.660500834724544,
+            "date" : "2026-06-03 11:55:55 +0530",
+            "units" : "kJ",
+            "source" : "Zepp"
+          },
+          {
+            "date" : "2026-06-03 11:56:55 +0530",
+            "qty" : 27.660500834724544,
+            "source" : "Zepp",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-06-03 11:57:55 +0530",
+            "qty" : 27.660500834724544,
+            "units" : "kJ",
+            "source" : "Zepp"
+          },
+          {
+            "date" : "2026-06-03 11:58:55 +0530",
+            "source" : "Zepp",
+            "qty" : 27.660500834724544,
+            "units" : "kJ"
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 11:59:55 +0530",
+            "units" : "kJ",
+            "qty" : 25.278624373956593
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-06-03 12:00:55 +0530",
+            "qty" : 25.565008347245406,
+            "source" : "Zepp"
+          },
+          {
+            "date" : "2026-06-03 12:01:55 +0530",
+            "qty" : 25.56500834724541,
+            "units" : "kJ",
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "qty" : 25.56500834724541,
+            "date" : "2026-06-03 12:02:55 +0530",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-06-03 12:03:55 +0530",
+            "units" : "kJ",
+            "qty" : 25.56500834724541,
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "qty" : 25.565008347245413,
+            "units" : "kJ",
+            "date" : "2026-06-03 12:04:55 +0530"
+          },
+          {
+            "date" : "2026-06-03 12:05:55 +0530",
+            "qty" : 25.56500834724541,
+            "source" : "Zepp",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 25.565008347245406,
+            "units" : "kJ",
+            "date" : "2026-06-03 12:06:55 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "qty" : 25.56500834724541,
+            "units" : "kJ",
+            "date" : "2026-06-03 12:07:55 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "qty" : 25.56500834724541,
+            "source" : "Zepp",
+            "units" : "kJ",
+            "date" : "2026-06-03 12:08:55 +0530"
+          },
+          {
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:09:55 +0530",
+            "qty" : 26.291445742904841,
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "qty" : 26.822303839732889,
+            "date" : "2026-06-03 12:10:55 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:11:55 +0530",
+            "qty" : 26.822303839732889
+          },
+          {
+            "source" : "Zepp",
+            "qty" : 26.822303839732886,
+            "date" : "2026-06-03 12:12:55 +0530",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-06-03 12:13:55 +0530",
+            "qty" : 26.822303839732889,
+            "source" : "Zepp",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 26.822303839732889,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:14:55 +0530",
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-06-03 12:15:55 +0530",
+            "source" : "Zepp",
+            "qty" : 26.822303839732886
+          },
+          {
+            "units" : "kJ",
+            "source" : "Zepp",
+            "qty" : 26.822303839732889,
+            "date" : "2026-06-03 12:16:55 +0530"
+          },
+          {
+            "qty" : 26.822303839732889,
+            "source" : "Zepp",
+            "date" : "2026-06-03 12:17:55 +0530",
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "qty" : 26.822303839732889,
+            "date" : "2026-06-03 12:18:55 +0530",
+            "source" : "Zepp"
+          },
+          {
+            "source" : "Zepp",
+            "units" : "kJ",
+            "date" : "2026-06-03 12:19:55 +0530",
+            "qty" : 18.307619365609348
+          },
+          {
+            "qty" : 18.021235392320531,
+            "date" : "2026-06-03 12:20:55 +0530",
+            "source" : "Zepp",
+            "units" : "kJ"
+          }
+        ],
+        "duration" : 2566
+      }
+    ],
+    "metrics" : [
+      {
+        "data" : [
+          {
+            "date" : "2026-06-03 00:00:00 +0530",
+            "qty" : 54,
+            "source" : "iPhone"
+          }
+        ],
+        "units" : "min",
+        "name" : "apple_exercise_time"
+      },
+      {
+        "units" : "kJ",
+        "name" : "active_energy",
+        "data" : [
+          {
+            "date" : "2026-06-03 00:00:00 +0530",
+            "qty" : 2623.3679999999999,
+            "source" : "Zepp"
+          }
+        ]
+      },
+      {
+        "units" : "count",
+        "data" : [
+          {
+            "date" : "2026-06-03 00:00:00 +0530",
+            "qty" : 2,
+            "source" : ""
+          }
+        ],
+        "name" : "apple_stand_hour"
+      },
+      {
+        "units" : "min",
+        "name" : "apple_stand_time",
+        "data" : [
+          {
+            "qty" : 12,
+            "source" : "iPhone",
+            "date" : "2026-06-03 00:00:00 +0530"
+          }
+        ]
+      },
+      {
+        "name" : "blood_oxygen_saturation",
+        "units" : "%",
+        "data" : [
+          {
+            "qty" : 98.146788990825684,
+            "source" : "Zepp",
+            "date" : "2026-06-03 00:00:00 +0530"
+          }
+        ]
+      },
+      {
+        "name" : "flights_climbed",
+        "units" : "count",
+        "data" : [
+          {
+            "qty" : 11,
+            "date" : "2026-06-03 00:00:00 +0530",
+            "source" : "iPhone"
+          }
+        ]
+      },
+      {
+        "units" : "dBASPL",
+        "data" : [
+          {
+            "date" : "2026-06-03 00:00:00 +0530",
+            "source" : "iPhone",
+            "qty" : 72.814014510374832
+          }
+        ],
+        "name" : "headphone_audio_exposure"
+      },
+      {
+        "name" : "heart_rate_variability",
+        "units" : "ms",
+        "data" : [
+          {
+            "date" : "2026-06-03 00:00:00 +0530",
+            "source" : "Zepp",
+            "qty" : 44.283333333333331
+          }
+        ]
+      },
+      {
+        "units" : "count\/min",
+        "data" : [
+          {
+            "Max" : 142,
+            "source" : "Zepp",
+            "date" : "2026-06-03 00:00:00 +0530",
+            "Avg" : 66.688658861363592,
+            "Min" : 47
+          }
+        ],
+        "name" : "heart_rate"
+      },
+      {
+        "units" : "count\/min",
+        "name" : "resting_heart_rate",
+        "data" : [
+          {
+            "qty" : 50,
+            "date" : "2026-06-03 00:00:00 +0530",
+            "source" : "Zepp"
+          }
+        ]
+      },
+      {
+        "units" : "count\/min",
+        "data" : [
+          {
+            "date" : "2026-06-03 00:00:00 +0530",
+            "source" : "Zepp",
+            "qty" : 15.695150115473441
+          }
+        ],
+        "name" : "respiratory_rate"
+      },
+      {
+        "name" : "step_count",
+        "data" : [
+          {
+            "date" : "2026-06-03 00:00:00 +0530",
+            "qty" : 10854.006677796327,
+            "source" : "iPhone|Zepp"
+          }
+        ],
+        "units" : "count"
+      },
+      {
+        "data" : [
+          {
+            "asleep" : 0,
+            "sleepStart" : "2026-06-03 02:08:00 +0530",
+            "core" : 5.2786111111111111,
+            "inBedEnd" : "2026-06-03 10:42:59 +0530",
+            "deep" : 1.2316666666666669,
+            "totalSleep" : 8.4588888888888896,
+            "awake" : 0.11527777777777778,
+            "source" : "Zepp",
+            "sleepEnd" : "2026-06-03 10:42:59 +0530",
+            "rem" : 1.9486111111111111,
+            "inBed" : 7.2497222222222222,
+            "inBedStart" : "2026-06-03 02:07:00 +0530",
+            "date" : "2026-06-03 00:00:00 +0530"
+          }
+        ],
+        "units" : "hr",
+        "name" : "sleep_analysis"
+      },
+      {
+        "name" : "walking_running_distance",
+        "data" : [
+          {
+            "date" : "2026-06-03 00:00:00 +0530",
+            "qty" : 4.8455400000247177,
+            "source" : "iPhone|Zepp"
+          }
+        ],
+        "units" : "km"
+      },
+      {
+        "name" : "walking_asymmetry_percentage",
+        "data" : [
+          {
+            "source" : "iPhone",
+            "qty" : 2.1818181818181817,
+            "date" : "2026-06-03 00:00:00 +0530"
+          }
+        ],
+        "units" : "%"
+      },
+      {
+        "name" : "walking_double_support_percentage",
+        "units" : "%",
+        "data" : [
+          {
+            "qty" : 29.453571428571429,
+            "date" : "2026-06-03 00:00:00 +0530",
+            "source" : "iPhone"
+          }
+        ]
+      },
+      {
+        "units" : "km\/hr",
+        "name" : "walking_speed",
+        "data" : [
+          {
+            "qty" : 3.8340000000000001,
+            "source" : "iPhone",
+            "date" : "2026-06-03 00:00:00 +0530"
+          }
+        ]
+      },
+      {
+        "data" : [
+          {
+            "date" : "2026-06-03 00:00:00 +0530",
+            "qty" : 64.13333333333334,
+            "source" : "iPhone"
+          }
+        ],
+        "name" : "walking_step_length",
+        "units" : "cm"
+      }
+    ]
+  }
+}

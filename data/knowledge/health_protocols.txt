@@ -1,0 +1,17 @@
+# AuraPulse Clinical Health Protocols & Bio-Optimization Guidelines
+
+## Section 1: Cardiac Health and Resting Heart Rate (RHR)
+- **Baseline RHR Optimization:** A resting heart rate between 40-60 BPM is considered optimal for high-performing individuals.
+- **Alcohol Impact:** Consuming alcohol, especially within 4 hours of sleep, significantly elevates RHR by 5-10 BPM and delays the onset of cardiovascular recovery until late in the sleep cycle.
+- **Protocol for Elevated RHR:** If RHR is elevated by more than 5 BPM above baseline, the individual should engage in Zone 2 active recovery (light cycling or walking) for 30-45 minutes. High-intensity interval training (HIIT) should be avoided.
+- **Caffeine Half-Life:** Caffeine has a half-life of 5-7 hours. Ingestion after 2 PM can prevent the nervous system from shifting into parasympathetic mode, elevating nighttime RHR.
+
+## Section 2: Sleep Architecture
+- **Target Metrics:** Optimal sleep architecture requires 7.5 to 8.5 hours of total duration, with at least 20% in Deep Sleep (physical recovery) and 20% in REM sleep (cognitive recovery).
+- **Late Meals:** Eating a heavy meal within 2 hours of bedtime forces the digestive system to work during sleep, raising core body temperature and destroying Deep Sleep phases.
+- **Protocol for Sleep Deficit:** If total sleep falls below 6 hours, cognitive function declines by 30%. The recommended protocol is a 20-30 minute Non-Sleep Deep Rest (NSDR) or Yoga Nidra protocol in the mid-afternoon to restore neural fatigue.
+
+## Section 3: Kinetic Output and Step Targets
+- **Baseline Movement:** A minimum of 8,000 to 10,000 steps daily is required for optimal metabolic clearance and joint lubrication.
+- **Overtraining Syndrome (OTS):** If kinetic output exceeds 150% of baseline (e.g., jumping from 10k to 25k steps) without a corresponding 20% increase in sleep duration, the user risks OTS, which manifests as elevated RHR and systemic inflammation.
+- **Protocol for High Kinetic Load:** Following a high-exertion day (>15,000 steps), protein intake should increase by 20g, and the user must prioritize stretching the posterior chain.
