@@ -10,7 +10,7 @@ streamlit>=1.28.0
 plotly>=5.18.0
 
 # Agentic AI Orchestration
-crewai>=0.28.0
+crewai[google-genai]>=0.28.0
 langchain-openai>=0.1.0
 
 # Environment Configuration
