@@ -2,7 +2,6 @@ import os
 import time
 import logging
 import json
-import re
 from crewai import Agent, Task, Crew, Process
 from dotenv import load_dotenv
 
@@ -13,20 +12,21 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-if not os.environ.get("GEMINI_API_KEY"):
-    logger.error("GEMINI_API_KEY not found in environment.")
+# if not os.environ.get("GEMINI_API_KEY"):
+#     logger.error("GEMINI_API_KEY not found in environment.")
+
+
 
 # --- GOOGLE AI CONFIGURATION ---
 try:
     from langchain_google_genai import ChatGoogleGenerativeAI
-    
+
     # We are using Gemini 1.5 Flash (Google's fastest and most capable free-tier model)
     model_name = "gemma-4-26b-a4b-it"
-    
     chat_llm = ChatGoogleGenerativeAI(
         model=model_name,
-        google_api_key=os.environ.get("GEMINI_API_KEY"),
-        temperature=0.7 
+        google_api_key=os.environ.get("GEMINI_API_KEY"), # Uncommented and using GEMINI_API_KEY
+        temperature=0.7,
     )
     logger.info(f"Google ChatLLM ({model_name}) initialized successfully.")
 except ImportError:
@@ -75,11 +75,11 @@ def run_health_analysis(historical_metrics: list, user_profile: dict) -> str:
     """
 
     gemini_model = "gemini/gemma-4-26b-a4b-it"
-    
+
     # ==========================================
     # STEP 1: DEFINE THE SINGLE MASTER AGENT
     # ==========================================
-    
+
     eve_master_agent = Agent(
         role="E.V.E. (Entity for Vital Evaluation)",
         goal="Perform a multi-disciplinary health analysis of a multi-day timeline and deliver a unified clinical briefing.",
@@ -96,7 +96,7 @@ def run_health_analysis(historical_metrics: list, user_profile: dict) -> str:
     # ==========================================
     # STEP 2: DEFINE THE "EXPERT COUNCIL" TASK
     # ==========================================
-    
+
     council_task = Task(
         description=f"""
         Analyze the following historical timeline data of the user (from oldest to newest):
@@ -147,11 +147,11 @@ def generate_chat_response(prompt: str, chat_history: list, historical_metrics: 
     """
     if not chat_llm:
         return "I'm sorry, my cognitive processors (LLM) are currently offline. Please check your API keys."
-        
+
     try:
         logger.info(f"Querying ChromaDB for: '{prompt}'")
         medical_context = get_relevant_context(prompt, k=2)
-        
+
         context = f"""You are E.V.E. (Entity for Vital Evaluation), an advanced Cognitive Health Intelligence assistant.
         
 User's Historical Metrics (Last 7-30 days):
@@ -177,7 +177,7 @@ NO JSON ARRAYS. Please output plain text.
 User's Query: {prompt}
 """
         response = chat_llm.invoke(context)
-        
+
         content = response.content
         # 1. Handle case where content is already parsed into a list of dictionaries
         if isinstance(content, list):
